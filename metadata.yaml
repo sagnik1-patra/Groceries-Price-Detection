@@ -1,0 +1,15 @@
+source_csv: C:\Users\NXTWAVE\Downloads\Groceries Price Detection\archive (1)\Groceries_dataset.csv
+generated_on: '2025-09-22T09:19:06.550374'
+n_rows_raw: 38765
+n_transactions: 14963
+n_unique_items: 167
+tx_column: Date
+item_column: itemDescription
+min_support_requested: 0.01
+min_support_used: 0.01
+min_confidence: 0.2
+files:
+  processed: C:\Users\NXTWAVE\Downloads\Groceries Price Detection\processed_data.h5
+  pkl: C:\Users\NXTWAVE\Downloads\Groceries Price Detection\artifacts.pkl
+  rules_json: C:\Users\NXTWAVE\Downloads\Groceries Price Detection\association_rules.json
+  metadata_yaml: C:\Users\NXTWAVE\Downloads\Groceries Price Detection\metadata.yaml

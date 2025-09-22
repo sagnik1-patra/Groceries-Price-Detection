@@ -1,0 +1,42 @@
+{
+  "hit_rates": {
+    "1": 0.0,
+    "3": 0.0,
+    "5": 0.0,
+    "10": 0.0
+  },
+  "n_transactions": 14963,
+  "n_items": 167,
+  "top_items_for_heatmap": [
+    "whole milk",
+    "other vegetables",
+    "rolls/buns",
+    "soda",
+    "yogurt",
+    "root vegetables",
+    "tropical fruit",
+    "bottled water",
+    "sausage",
+    "citrus fruit",
+    "pastry",
+    "pip fruit",
+    "shopping bags",
+    "canned beer",
+    "bottled beer",
+    "whipped/sour cream",
+    "newspapers",
+    "frankfurter",
+    "brown bread",
+    "pork",
+    "domestic eggs",
+    "butter",
+    "fruit/vegetable juice",
+    "beef",
+    "curd",
+    "margarine",
+    "coffee",
+    "frozen vegetables",
+    "chicken",
+    "white bread"
+  ]
+}
